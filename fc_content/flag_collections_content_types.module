@@ -1,0 +1,3 @@
+<?php
+
+include_once('flag_collections_content_types.features.inc');
